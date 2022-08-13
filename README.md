@@ -1,2 +1,2 @@
-# MyWeb2
+# MyWeb
 Website with my info.
